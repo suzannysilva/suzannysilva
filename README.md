@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://github.com/suzannysilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suzannysilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=suzannysilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Su-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
