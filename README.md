@@ -1,4 +1,4 @@
-### Olá! Eu sou a suzanny Silva
+### Olá! Eu sou a Suzanny Silva
 🎲 Estudando Banco de Dados
 
 <div align="center">
