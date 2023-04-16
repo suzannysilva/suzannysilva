@@ -1,5 +1,4 @@
 ### Olá! Eu sou a Suzanny Silva
-### Olá! Eu sou a Suzanny Silva
 👩‍💻 Acadêmica do curso de ADS.
 
 🔮 Programação Web.
