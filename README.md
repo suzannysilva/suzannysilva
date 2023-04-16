@@ -1,5 +1,12 @@
 ### Olá! Eu sou a Suzanny Silva
-🎲 Estudando Banco de Dados
+### Olá! Eu sou a Suzanny Silva
+👩‍💻 Acadêmica do curso de ADS.
+
+🔮 Programação Web.
+
+🎲 Banco de dados.
+
+" Estou aprendendo um pouquinho de cada, mas tenho como preferência banco de dados e front end💟 "
 
 <div align="center">
   <a href="https://github.com/suzannysilva">
@@ -8,9 +15,12 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Su-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Su-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Su-c++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Su-javascript" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
   <img align="center" alt="Su-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+  <img align="center" alt="Su-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Su-css" height="30" width="40" src= "https://cdn.worldvectorlogo.com/logos/css-3.svg">
+  <img align="center" alt="Su-html" height="30" width="40" src= "https://cdn.worldvectorlogo.com/logos/html-1.svg">
+
 </div>
   
   ##
